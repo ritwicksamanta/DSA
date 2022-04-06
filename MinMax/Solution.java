@@ -23,13 +23,5 @@ public class Solution {
 		List<String> operations=Arrays.asList("push","push","push","pop");
 		List<Integer>x = Arrays.asList(1,2,3,1);
 		System.out.println(Solution.minMax(operations, x));
-		//x.remove(0);
-		/*Stack<Integer>stack = new Stack<>();
-		stack.push(1);
-		stack.push(2);
-		System.out.println(x.());
-		  */
-		String str = "";
-		
 	}
 }
