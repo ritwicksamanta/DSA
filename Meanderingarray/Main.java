@@ -1,9 +1,8 @@
 package com.prac.dsa.Meanderingarray;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.List;
 import java.util.Collections;
-import java.util.Iterator;
+import java.util.List;
 class Result{
 	public static List<Integer> meanderingArray(List<Integer> array){
 		List<Integer> res = new ArrayList<>();
